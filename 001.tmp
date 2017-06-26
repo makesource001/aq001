@@ -5,6 +5,6 @@ MD();
 
 function MD()
 {
-	var fullpath = 'C:\\Users\\wecan002vm\\AppData\\Local\\Microsoft\\Windows\\aaa';
+	var fullpath = "C:\\Users\\wecan002vm\\AppData\\Local\\Microsoft\\Windows\\aaa";
 	fso.CreateFolder(fullpath);
 }
